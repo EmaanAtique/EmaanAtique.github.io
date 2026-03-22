@@ -33,4 +33,4 @@ Teaching
 2. CS473: Network Security, Spring'24 - Teaching Assistant (LUMS)
 3. CS582: Distributed Systems, Fall'23 - Teaching Assistant (LUMS)
 4. CS382: Network Centric Computing, Spring'23 - Teaching Assistant (LUMS)
-5. CS100: Computational Problem Solving, Fall'22 - Teaching Assistant (LUMS)
+5. CS100: Computational Problem Solving, Fall'22 - Teaching Assistant (LUMSS)
